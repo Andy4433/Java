@@ -64,7 +64,8 @@
 
 ### Vamos falar de Java?
 
-<img align="right" src="https://pa1.aminoapps.com/6416/ad8761d154371cb4945804134f7cee0487521133_00.gif" width="100" alt="Vamos falar de Java?">
+<img align="right" src="caminho/para/o/seu/gif/68747470733a2f2f7061312e616d69-unscreen.gif" width="100" alt="Descrição do Gif">
+
 
 
 Ah, Java, a linguagem que desperta sentimentos contraditórios em muitos programadores! Alguns a amam, outros a odeiam, mas uma coisa é certa: Java tem desempenhado um papel significativo no mundo da programação.
