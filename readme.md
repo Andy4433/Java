@@ -3,7 +3,7 @@
 
 <h1 align="center"> Sumário </h1>
 
-<img align="right" src="https://w7.pngwing.com/pngs/881/1007/png-transparent-noragami-gif-yato-no-kami-anime-manga-anime-cg-artwork-face-black-hair.png" width="200" alt="Vamos falar de Java?">
+<img align="right" src="https://i.gifer.com/FPLw.gif" width="200" alt="Vamos falar de Java?">
 
 - 1.0 [Vamos falar de Java?](#Vamos_falar_de_Java?)
 
