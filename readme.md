@@ -2,7 +2,7 @@
 
 ### Vamos falar de Java?
 
-<img align="left" src="https://pa1.aminoapps.com/6416/ad8761d154371cb4945804134f7cee0487521133_00.gif" width="100" alt="Vamos falar de Java?" style="margin-top: 20px;">
+<img align="right" src="https://pa1.aminoapps.com/6416/ad8761d154371cb4945804134f7cee0487521133_00.gif" width="100" alt="Vamos falar de Java?">
 
 
 Ah, Java, a linguagem que desperta sentimentos contraditórios em muitos programadores! Alguns a amam, outros a odeiam, mas uma coisa é certa: Java tem desempenhado um papel significativo no mundo da programação.
@@ -12,13 +12,14 @@ Aqui estão algumas informações e curiosidades sobre Java:
 #### Portabilidade: 
 Uma das coisas mais legais sobre Java é sua portabilidade. Os programas Java são escritos uma vez e podem ser executados em várias plataformas, desde sistemas Windows até dispositivos Android. Isso é possível graças à Máquina Virtual Java (JVM), que interpreta o código Java em tempo de execução.
 
-<img align="right" src="https://2.bp.blogspot.com/-Ck0ZJSsj0RY/U2GQXV6sSxI/AAAAAAAADSs/hPx2b7ugRZk/s1600/a11.gif" width="150" alt="Vamos falar de Java?">
-
 #### OOP (Programação Orientada a Objetos): 
 Java é uma linguagem orientada a objetos, o que significa que tudo em Java é um objeto. Isso promove a reutilização de código e facilita a manutenção.
 
+<img align="right" src="https://2.bp.blogspot.com/-Ck0ZJSsj0RY/U2GQXV6sSxI/AAAAAAAADSs/hPx2b7ugRZk/s1600/a11.gif" width="150" alt="Vamos falar de Java?">
+
 #### Rico Ecossistema:
 Java tem um ecossistema incrivelmente rico, com uma vasta biblioteca padrão e uma comunidade ativa que desenvolve inúmeras bibliotecas de terceiros. Isso facilita o desenvolvimento de uma ampla variedade de aplicativos.
+
 
 #### História de Sucesso: 
 Java tem uma história de sucesso impressionante. É amplamente usado em aplicações empresariais, desenvolvimento Android, aplicativos de servidor e muito mais. Grandes empresas, como Google, Amazon e Netflix, também utilizam Java em suas infraestruturas.
