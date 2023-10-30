@@ -287,6 +287,8 @@ condicao: É uma expressão booleana que determina se o bloco de código dentro 
 
 Neste exemplo, o loop while é executado enquanto o valor da variável contador for menor que 5. A cada iteração, o valor de contador é incrementado em 1.
 
+<img align="right" src="/gifs/gif04.gif" width="150" alt="Vamos falar de Java?">
+
 É importante ter cuidado ao usar um loop while, pois ele pode levar a um loop infinito se a condição nunca se tornar falsa. Certifique-se de que a condição se torne falsa em algum momento para evitar loops infinitos. Geralmente, isso é feito atualizando a variável na qual a condição depende dentro do bloco de código do loop.
 
 Você também pode usar o loop while para criar loops baseados em condições mais complexas e, dependendo da lógica do seu programa, pode ser necessário usar a instrução break para sair do loop antecipadamente ou a instrução continue para pular para a próxima iteração com base em alguma condição específica.
