@@ -38,13 +38,13 @@
 
 -5.0 [ Estruturas de Repetição](#estrutura-de-repetição)
 
-    - 5.1 [While](#while)
+- 5.1 [While](#while)
 
     - 5.2 [Loop For](#loop-for)
 
 -6.0 [Arrays](#arrays)
 
-    - 6.1 [Declaração de Arrays](#declaração-de-arrays)
+- 6.1 [Declaração de Arrays](#declaração-de-arrays)
 
     - 6.2 [Inicialização de Arrays](#inicialização-de-arrays)
 
