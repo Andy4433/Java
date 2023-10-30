@@ -3,7 +3,7 @@
 
 <h1 align="center"> Sumário </h1>
 
-<img align="right" src="https://i.gifer.com/FPLw.gif" width="200" alt="Vamos falar de Java?">
+<img align="right" src="https://pa1.aminoapps.com/6552/983d39ff666383035c9f2123135fd77628d8e18c_hq.gif" width="200" alt="Vamos falar de Java?">
 
 - 1.0 [Vamos falar de Java?](#Vamos_falar_de_Java?)
 
