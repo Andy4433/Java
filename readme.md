@@ -1,5 +1,55 @@
 # java:
 
+<h1 align="center"> Sumário </h1>
+
+- 1.0 [Vamos falar de Java?](#Vamos_falar_de_Java?)
+
+    - 1.1 [Portabilidade:](#Portabilidade:)
+
+    - 1.2 [OOP (Programação Orientada a Objetos)](#OOP)
+
+    - 1.3 [Rico Ecossistema](#Rico_Ecossistema)
+
+    - 1.4[ História de Sucesso](#história-de-sucesso)
+
+    - 1.5[Performance e Segurança](#performance-e-segurança)
+
+    - 1.6[Hype e Críticas](#hype-e-críticas)
+
+    - 1.7[Herança do C/C++](#herança-do-cc)
+
+    - 1.8[Comunidade Ativa](#comunidade-ativa)
+
+- 2.0 [ O java funciona assim ](#o-java-funciona-assim)
+
+    - 2.1 [Declaraçao de variaveis](#declaraçao-de-variaveis)
+
+    - 2.2 [tipos De Dado](#tipo-de-dado)
+
+    - 2.3 [nome Da Variavel](#nome-da-variavel)
+
+- 3.0 [Função de saida de dados System.out.println](#função-de-saida-de-dados-systemoutprintln)
+
+- 4.0 [Estruturas condicionais](#estruturas-condicionais)
+
+    - 4.1 [if, else if e else](#if-else-if-e-else)
+
+    - 4.2 [switch](#switch)
+
+-5.0 [ Estruturas de Repetição](#estrutura-de-repetição)
+    - 5.1 [While](#while)
+    - 5.2 [Loop For](#loop-for)
+
+-6.0 [Arrays](#arrays)
+    - 6.1 [Declaração de Arrays](#declaração-de-arrays)
+    - 6.2 [Inicialização de Arrays](#inicialização-de-arrays)
+    - 6.3 [Acesso a Elementos do Array](#acesso-a-elementos-do-array)
+    - 6.4 [Comprimento do Array](#comprimento-do-array)
+    - 6.5 [Arrays Multidimensionais](#arrays-multidimensionais)
+    - 6.6 [Arrays e Loops](#arrays-e-loops)
+    - 6.7 [Arrays vs. ArrayLists](#arrays-vs-arraylists)
+
+
 ### Vamos falar de Java?
 
 <img align="right" src="https://pa1.aminoapps.com/6416/ad8761d154371cb4945804134f7cee0487521133_00.gif" width="100" alt="Vamos falar de Java?">
@@ -12,7 +62,7 @@ Aqui estão algumas informações e curiosidades sobre Java:
 #### Portabilidade: 
 Uma das coisas mais legais sobre Java é sua portabilidade. Os programas Java são escritos uma vez e podem ser executados em várias plataformas, desde sistemas Windows até dispositivos Android. Isso é possível graças à Máquina Virtual Java (JVM), que interpreta o código Java em tempo de execução.
 
-#### OOP (Programação Orientada a Objetos): 
+#### OOP: 
 Java é uma linguagem orientada a objetos, o que significa que tudo em Java é um objeto. Isso promove a reutilização de código e facilita a manutenção.
 
 <img align="right" src="https://2.bp.blogspot.com/-Ck0ZJSsj0RY/U2GQXV6sSxI/AAAAAAAADSs/hPx2b7ugRZk/s1600/a11.gif" width="150" alt="Vamos falar de Java?">
@@ -38,9 +88,9 @@ A comunidade Java é enorme. Existem conferências, grupos de usuários, tutoria
 
 Então, amor ou odeie, Java é uma linguagem que deixou uma marca indelével no mundo da programação e continua a ser uma escolha popular para muitos tipos de aplicativos.
 
-## sitaxe baisca:
+##  O java funciona assim: 
 
-### O java funciona assim
+### sitaxe baisca:
 
 
     public class nome_do_programa{ // <-- declarar a  classe
@@ -59,7 +109,7 @@ public static void main(String[] args): Isso declara o método main. O método m
 
 Em Java, a declaração de variáveis é a ação de criar uma variável, especificando o seu tipo e o nome que você deseja atribuir a ela.
 
-#### tipoDeDado: 
+#### tipo De Dado: 
 Especifica o tipo de dados que a variável irá conter. Java é uma linguagem de programação fortemente tipada, o que significa que o tipo de dados de uma variável deve ser declarado explicitamente. Alguns tipos de dados comuns em Java incluem:
 
 int: Para números inteiros.
@@ -69,7 +119,7 @@ char: Para caracteres individuais.
 String: Para sequências de caracteres (cadeias de texto).
 E muitos outros tipos de dados personalizados.
 
-#### nomeDaVariavel: 
+#### nome Da Variavel: 
 
 É o nome que você atribui à variável. Este nome deve seguir algumas regras:
 
@@ -101,7 +151,7 @@ Podemos declara variavies e inicializar uma variável em uma única linha:, onde
 
  Ela mostra como declarar variáveis e atribuir valores a elas em uma única linha, o que é uma prática comum e eficiente em Java. Assim, não é necessário declarar a variável e, em seguida, atribuir um valor separadamente
 
-## System.out.println:
+## Função de saida de dados System.out.println:
 
 Em Java, para exibir dados na saída padrão (geralmente, o console), você pode usar o comando de saída de dados, que é implementado com o método System.out.println(). Este método pertence à classe System e é comumente usado para imprimir informações para o console ou outra saída.
 
