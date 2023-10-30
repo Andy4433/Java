@@ -64,7 +64,7 @@
 
 ### Vamos falar de Java?
 
-<img align="right" src="caminho/para/o/seu/gif/68747470733a2f2f7061312e616d69-unscreen.gif" width="100" alt="Descrição do Gif">
+<img align="right" src=Java/gifs/68747470733a2f2f7061312e616d69-unscreen.gif" width="100" alt="Descrição do Gif">
 
 
 
