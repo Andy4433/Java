@@ -1,4 +1,9 @@
 # java:
+
+### Vamos falar de Java?
+
+<img align="right" src="https://pa1.aminoapps.com/6416/ad8761d154371cb4945804134f7cee0487521133_00.gif" width="250" alt="Vamos falar de Java?">
+
 Java é uma linguagem de programação de alto nível, orientada a objetos e amplamente utilizada no desenvolvimento de aplicativos em uma variedade de plataformas.
 
 ## sitaxe baisca:
@@ -250,7 +255,7 @@ Expressão de Atualização: Esta expressão é avaliada após cada iteração d
 
 O bloco de código dentro do loop for pode conter qualquer número de instruções e pode realizar várias ações. Você pode usar o loop for para percorrer arrays, executar cálculos iterativos, gerar sequências numéricas e muito mais.
 
-Exemplo de percorrer um array com um loop for:
+#### Exemplo de percorrer um array com um loop for:
 
     int[] numeros = {1, 2, 3, 4, 5};
     for (int i = 0; i < numeros.length; i++) {
