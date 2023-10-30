@@ -144,8 +144,6 @@ Não pode conter espaços em branco ou caracteres especiais, como $ ou #.
     char genero;          // Declara uma variável chamada "genero" do tipo "char".
     String nomeCompleto;  // Declara uma variável chamada "nomeCompleto" do tipo "String".
 
-<img align="right" src="https://2.bp.blogspot.com/-Ck0ZJSsj0RY/U2GQXV6sSxI/AAAAAAAADSs/hPx2b7ugRZk/s1600/a11.gif" width="150" alt="Vamos falar de Java?">
-
 Depois de declarar uma variável, você pode atribuir um valor a ela usando o operador de atribuição =. Por exemplo:
 
     idade = 25;               // Atribui o valor 25 à variável "idade".
@@ -165,6 +163,7 @@ Podemos declara variavies e inicializar uma variável em uma única linha:, onde
  Ela mostra como declarar variáveis e atribuir valores a elas em uma única linha, o que é uma prática comum e eficiente em Java. Assim, não é necessário declarar a variável e, em seguida, atribuir um valor separadamente
 
 ## Função de saida de dados System.out.println:
+<img align="right" src="https://2.bp.blogspot.com/-Ck0ZJSsj0RY/U2GQXV6sSxI/AAAAAAAADSs/hPx2b7ugRZk/s1600/a11.gif" width="150" alt="Vamos falar de Java?">
 
 Em Java, para exibir dados na saída padrão (geralmente, o console), você pode usar o comando de saída de dados, que é implementado com o método System.out.println(). Este método pertence à classe System e é comumente usado para imprimir informações para o console ou outra saída.
 
