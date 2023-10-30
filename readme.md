@@ -78,8 +78,6 @@ Uma das coisas mais legais sobre Java é sua portabilidade. Os programas Java s�
 #### OOP: 
 Java é uma linguagem orientada a objetos, o que significa que tudo em Java é um objeto. Isso promove a reutilização de código e facilita a manutenção.
 
-<img align="right" src="https://2.bp.blogspot.com/-Ck0ZJSsj0RY/U2GQXV6sSxI/AAAAAAAADSs/hPx2b7ugRZk/s1600/a11.gif" width="150" alt="Vamos falar de Java?">
-
 #### Rico Ecossistema:
 Java tem um ecossistema incrivelmente rico, com uma vasta biblioteca padrão e uma comunidade ativa que desenvolve inúmeras bibliotecas de terceiros. Isso facilita o desenvolvimento de uma ampla variedade de aplicativos.
 
@@ -145,6 +143,8 @@ Não pode conter espaços em branco ou caracteres especiais, como $ ou #.
     boolean aprovado;     // Declara uma variável chamada "aprovado" do tipo "boolean".
     char genero;          // Declara uma variável chamada "genero" do tipo "char".
     String nomeCompleto;  // Declara uma variável chamada "nomeCompleto" do tipo "String".
+
+<img align="right" src="https://2.bp.blogspot.com/-Ck0ZJSsj0RY/U2GQXV6sSxI/AAAAAAAADSs/hPx2b7ugRZk/s1600/a11.gif" width="150" alt="Vamos falar de Java?">
 
 Depois de declarar uma variável, você pode atribuir um valor a ela usando o operador de atribuição =. Por exemplo:
 
