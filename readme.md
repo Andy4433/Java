@@ -97,4 +97,163 @@ Você também pode usar o método System.out.print() se não quiser adicionar au
 
 Este código resultará na saída: "Primeira parte Segunda parte" na mesma linha.
 
-## Estruturas condicionais
+## Estruturas condicionais:
+
+As estruturas condicionais permitem que você execute blocos de código com base em uma condição. No Java, existem principalmente duas formas de estruturas condicionais: o if (se) e o switch (escolha). Vou explicar ambas:
+
+### if, else if e else:
+
+A estrutura condicional if é usada para executar um bloco de código se uma condição for verdadeira. Pode ser seguida por else if e else para lidar com diferentes cenários. A sintaxe básica é a seguinte:
+
+##### sintaxe: 
+
+    if (condicao) {
+        // Código a ser executado se a condição for verdadeira
+    } else if (outraCondicao) {
+        // Código a ser executado se a outra condição for verdadeira
+    } else {
+        // Código a ser executado se nenhuma das condições anteriores for verdadeira
+    }
+
+
+##### Exemplo:
+
+    int idade = 25;
+
+    if (idade < 18) {
+        System.out.println("Menor de idade");
+    } else if (idade >= 18 && idade < 65) {
+        System.out.println("Adulto");
+    } else {
+        System.out.println("Idoso");
+    }
+
+### switch
+A estrutura condicional switch é usada quando você deseja tomar decisões com base no valor de uma expressão. Ela permite que você compare o valor de uma expressão com vários casos e execute o bloco de código associado a um caso correspondente. 
+
+#### sintaxe:
+
+    switch (expressao) {
+        case valor1:
+            // Código a ser executado se a expressão for igual a valor1
+            break;
+        case valor2:
+            // Código a ser executado se a expressão for igual a valor2
+            break;
+        // Outros casos aqui
+        default:
+            // Código a ser executado se nenhum caso corresponder
+    }
+
+#### Exemplo:
+
+    int diaDaSemana = 2;
+
+    switch (diaDaSemana) {
+        case 1:
+            System.out.println("Domingo");
+            break;
+        case 2:
+            System.out.println("Segunda-feira");
+            break;
+        case 3:
+            System.out.println("Terça-feira");
+            break;
+        // Outros casos para os outros dias da semana
+        default:
+            System.out.println("Dia inválido");
+    }
+
+##  Estrutura de repetição:
+### While:
+estrutura de repetição while em Java é usada para executar um bloco de código repetidamente enquanto uma condição específica for verdadeira. 
+
+#### Sintaxe;
+
+    while (condicao) {
+        // Código a ser executado enquanto a condição for verdadeira
+    }
+
+Aqui estão os elementos-chave na estrutura de repetição while:
+
+condicao: É uma expressão booleana que determina se o bloco de código dentro do while será executado. Enquanto a condição for verdadeira, o código será executado repetidamente. Quando a condição se tornar falsa, a execução do loop será interrompida.
+
+#### Exemplo:
+
+    int contador = 0;
+    while (contador < 5) {
+        System.out.println("Contador: " + contador);
+        contador++; // Importante: Incrementar o contador para evitar um loop infinito
+    }
+
+Neste exemplo, o loop while é executado enquanto o valor da variável contador for menor que 5. A cada iteração, o valor de contador é incrementado em 1.
+
+É importante ter cuidado ao usar um loop while, pois ele pode levar a um loop infinito se a condição nunca se tornar falsa. Certifique-se de que a condição se torne falsa em algum momento para evitar loops infinitos. Geralmente, isso é feito atualizando a variável na qual a condição depende dentro do bloco de código do loop.
+
+Você também pode usar o loop while para criar loops baseados em condições mais complexas e, dependendo da lógica do seu programa, pode ser necessário usar a instrução break para sair do loop antecipadamente ou a instrução continue para pular para a próxima iteração com base em alguma condição específica.
+
+#### Exemplo break:
+
+    int numero = 0;
+    while (true) {
+        if (numero == 5) {
+            break; // Sai do loop quando o número é igual a 5
+        }
+        System.out.println("Número: " + numero);
+        numero++;
+    }
+
+#### Exemplo continue:
+
+    int numero = 0;
+    while (numero < 10) {
+        if (numero % 2 == 0) {
+            numero++;
+            continue; // Pula a iteração se o número for par
+        }
+        System.out.println("Número ímpar: " + numero);
+        numero++;
+    }
+
+
+### loop for:
+
+O loop for em Java é uma estrutura de controle que permite repetir um bloco de código um número específico de vezes ou percorrer elementos em uma sequência, como um array ou uma lista. 
+
+    for (inicialização; condição; expressão de atualização) {
+        // Código a ser repetido
+    }
+
+Inicialização: Isso é onde você inicializa uma variável de controle que é usada para controlar o número de iterações do loop. Geralmente, uma variável é declarada e atribuída um valor inicial.
+
+#### Exemplo:
+
+    for (int i = 0; i < 5; i++) {
+        // Código a ser repetido
+    }
+
+Condição: A condição é avaliada antes de cada iteração do loop. Se a condição for verdadeira, o bloco de código dentro do loop é executado. Se a condição for falsa, o loop é encerrado.
+
+#### Exemplo:    
+
+    for (int i = 0; i < 5; i++) {
+        // Código a ser repetido
+    }
+
+Expressão de Atualização: Esta expressão é avaliada após cada iteração do loop. Geralmente, é usada para atualizar a variável de controle. Isso permite que você altere a condição do loop ou o estado da variável de controle.
+
+#### Exemplo:
+
+    for (int i = 0; i < 5; i++) {
+        // Código a ser repetido
+    }
+
+O bloco de código dentro do loop for pode conter qualquer número de instruções e pode realizar várias ações. Você pode usar o loop for para percorrer arrays, executar cálculos iterativos, gerar sequências numéricas e muito mais.
+
+Exemplo de percorrer um array com um loop for:
+
+    int[] numeros = {1, 2, 3, 4, 5};
+    for (int i = 0; i < numeros.length; i++) {
+        System.out.println("Número: " + numeros[i]);
+    }
+
