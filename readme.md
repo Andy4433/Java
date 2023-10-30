@@ -71,7 +71,6 @@ Ah, Java, a linguagem que desperta sentimentos contraditórios em muitos program
 
 Aqui estão algumas informações e curiosidades sobre Java:
 
-<img align="right" src="/gifs/gif05.gif" width="100" alt="Descrição do Gif">
 
 #### Portabilidade: 
 Uma das coisas mais legais sobre Java é sua portabilidade. Os programas Java são escritos uma vez e podem ser executados em várias plataformas, desde sistemas Windows até dispositivos Android. Isso é possível graças à Máquina Virtual Java (JVM), que interpreta o código Java em tempo de execução.
@@ -359,6 +358,8 @@ O bloco de código dentro do loop for pode conter qualquer número de instruçõ
     }
 
 ## arrays:
+
+<img align="right" src="/gifs/gif05.gif" width="100" alt="Descrição do Gif">
 
 Em Java, um array é uma estrutura de dados que permite armazenar um conjunto de valores do mesmo tipo em uma única variável. Os arrays são usados para agrupar elementos relacionados, como números inteiros, números de ponto flutuante, caracteres, ou até mesmo objetos personalizados.
 
