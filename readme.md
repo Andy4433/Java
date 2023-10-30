@@ -4,7 +4,7 @@
 
 - 1.0 [Vamos falar de Java?](#Vamos_falar_de_Java?)
 
-    - 1.1 [Portabilidade:](#Portabilidade:)
+    - 1.1 [Portabilidade](#Portabilidade)
 
     - 1.2 [OOP (Programação Orientada a Objetos)](#OOP)
 
