@@ -63,8 +63,8 @@
 
 
 ### Vamos falar de Java?
-<img align="right" src="/home/andys/projetos/Java/gifs/gif01.gif" width="100" alt="Descrição do Gif">
 
+![Descrição do Gif](/gifs/gif01.gif)
 
 
 Ah, Java, a linguagem que desperta sentimentos contraditórios em muitos programadores! Alguns a amam, outros a odeiam, mas uma coisa é certa: Java tem desempenhado um papel significativo no mundo da programação.
