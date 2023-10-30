@@ -11,6 +11,8 @@ Aqui estão algumas informações e curiosidades sobre Java:
 #### Portabilidade: 
 Uma das coisas mais legais sobre Java é sua portabilidade. Os programas Java são escritos uma vez e podem ser executados em várias plataformas, desde sistemas Windows até dispositivos Android. Isso é possível graças à Máquina Virtual Java (JVM), que interpreta o código Java em tempo de execução.
 
+<img align="right" src="https://2.bp.blogspot.com/-Ck0ZJSsj0RY/U2GQXV6sSxI/AAAAAAAADSs/hPx2b7ugRZk/s1600/a11.gif" width="250" alt="Vamos falar de Java?">
+
 #### OOP (Programação Orientada a Objetos): 
 Java é uma linguagem orientada a objetos, o que significa que tudo em Java é um objeto. Isso promove a reutilização de código e facilita a manutenção.
 
