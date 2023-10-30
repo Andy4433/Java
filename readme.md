@@ -1,8 +1,9 @@
 # java:
 
 
-<img align="right" src="https://pa1.aminoapps.com/6922/8594b6723a2bf35dbcf03b57fce6d1e6b07ca904r1-500-599_hq.gif" width="100" alt="Vamos falar de Java?">
 <h1 align="center"> Sumário </h1>
+
+<img align="right" src="https://pa1.aminoapps.com/6922/8594b6723a2bf35dbcf03b57fce6d1e6b07ca904r1-500-599_hq.gif" width="200" alt="Vamos falar de Java?">
 
 - 1.0 [Vamos falar de Java?](#Vamos_falar_de_Java?)
 
