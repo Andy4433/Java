@@ -37,16 +37,25 @@
     - 4.2 [switch](#switch)
 
 -5.0 [ Estruturas de Repetição](#estrutura-de-repetição)
+
     - 5.1 [While](#while)
+
     - 5.2 [Loop For](#loop-for)
 
 -6.0 [Arrays](#arrays)
+
     - 6.1 [Declaração de Arrays](#declaração-de-arrays)
+
     - 6.2 [Inicialização de Arrays](#inicialização-de-arrays)
+
     - 6.3 [Acesso a Elementos do Array](#acesso-a-elementos-do-array)
+
     - 6.4 [Comprimento do Array](#comprimento-do-array)
+
     - 6.5 [Arrays Multidimensionais](#arrays-multidimensionais)
+
     - 6.6 [Arrays e Loops](#arrays-e-loops)
+
     - 6.7 [Arrays vs. ArrayLists](#arrays-vs-arraylists)
 
 
