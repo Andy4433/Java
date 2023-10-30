@@ -5,27 +5,27 @@
 
 <img align="right" src="https://pa1.aminoapps.com/6552/983d39ff666383035c9f2123135fd77628d8e18c_hq.gif" width="200" alt="Vamos falar de Java?">
 
-- 1.0 [Vamos falar de Java?](#Vamos_falar_de_Java?)
+- 1.0 [Vamos falar de Java? ](#Vamos_falar_de_Java?)
 
-    - 1.1 [Portabilidade](#Portabilidade)
+    - 1.1 [Portabilidade ](#Portabilidade)
 
-    - 1.2 [OOP (Programação Orientada a Objetos)](#OOP)
+    - 1.2 [OOP (Programação Orientada a Objetos) ](#OOP)
 
-    - 1.3 [Rico Ecossistema](#Rico_Ecossistema)
+    - 1.3 [Rico Ecossistema ](#Rico_Ecossistema)
 
-    - 1.4[ História de Sucesso](#história-de-sucesso)
+    - 1.4 [ História de Sucesso ](#história-de-sucesso)
 
-    - 1.5[Performance e Segurança](#performance-e-segurança)
+    - 1.5 [Performance e Segurança ](#performance-e-segurança)
 
-    - 1.6[Hype e Críticas](#hype-e-críticas)
+    - 1.6 [Hype e Críticas ](#hype-e-críticas)
 
-    - 1.7[Herança do C/C++](#herança-do-cc)
+    - 1.7 [Herança do C/C++ ](#herança-do-cc)
 
-    - 1.8[Comunidade Ativa](#comunidade-ativa)
+    - 1.8 [Comunidade Ativa ](#comunidade-ativa)
 
 - 2.0 [ O java funciona assim ](#o-java-funciona-assim)
 
-    - 2.1 [Declaraçao de variaveis](#declaraçao-de-variaveis)
+    - 2.1 [Declaraçao de variaveis ](#declaraçao-de-variaveis)
 
     - 2.2 [tipos De Dado](#tipo-de-dado)
 
