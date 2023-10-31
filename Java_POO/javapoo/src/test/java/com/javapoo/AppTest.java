@@ -18,11 +18,12 @@ public class AppTest
         estudanteApp.Idade = 23;
         estudanteApp.Nome= "Anderson de Sousa Brito";
         estudanteApp.Sexo= 'M';
+        cachorro.Nome="Jake";
         Animal1.comer();
         cachorro.latir();
         System.out.println(estudanteApp.Nome);
         System.out.println(estudanteApp.Idade);
         System.out.println(estudanteApp.Sexo);
-        
+        cachorro.dormir();
     }
 }
